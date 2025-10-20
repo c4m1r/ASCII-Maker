@@ -219,7 +219,7 @@ function ASCIIPlayer({
     <div className={`flex flex-col ${className}`}>
       <div
         ref={containerRef}
-        className="relative ascii-container bg-black border border-gray-700 rounded-t-lg p-4"
+        className="relative ascii-container bg-black border border-gray-700 rounded-t-lg py-4 pl-2 pr-4"
       >
         <div
           className="ascii-content"
