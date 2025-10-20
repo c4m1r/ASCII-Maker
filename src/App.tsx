@@ -104,7 +104,7 @@ function App() {
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <div className="relative bg-black border border-gray-700 rounded-lg overflow-hidden" style={{ height: '420px' }}>
+              <div className="relative bg-black border border-gray-700 rounded-lg overflow-hidden" style={{ height: '380px' }}>
                 <video
                   className="w-full h-full object-contain"
                   controls
