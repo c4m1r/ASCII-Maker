@@ -90,6 +90,10 @@ cp ascii_monochrome_browser_*/txt_frames/*.txt public/frames/monochrome/
 npm run dev
 ```
 
+## 📄 Roadmap
+
+Right now time is for "Custom Character Sets" in ASCII Maker - see [ROADMAP](ROADMAP) for details
+
 ## 📊 Technologies
 
 - **Frontend**: Vite 6, React 19, TypeScript 5
