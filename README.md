@@ -9,7 +9,7 @@ Convert videos into ASCII art animations with multiple visual modes. High-perfor
 
 **Inspired by**: [Ghostty terminal](https://ghostty.org) & [Pierce's animation approach](https://pierce.dev/notes/making-the-ghostty-animation/)
 
-**Live Demo**: [https://c4m1r.github.io/ascii_maker/](https://c4m1r.github.io/ascii_maker/)
+**Live Demo**: [https://c4m1r.github.io/ASCII-Maker/](https://c4m1r.github.io/ASCII-Maker/)
 
 ## ✨ Features
 
@@ -137,7 +137,7 @@ git commit -m "Update ASCII Maker"
 git push
 ```
 
-Site will be live at: `https://c4m1r.github.io/ascii_maker/`
+Site will be live at: `https://c4m1r.github.io/ASCII-Maker/`
 
 ## 🤝 Contributing
 
@@ -151,16 +151,4 @@ MIT License - see [LICENSE](LICENSE) for details
 
 - [Ghostty terminal](https://ghostty.org) - Animation approach inspiration
 - [Pierce Bartine](https://pierce.dev/notes/making-the-ghostty-animation/) - Technical explanation
-
-## 👤 Author
-
-**C4m1r**
-- Website: [https://c4m1r.github.io](https://c4m1r.github.io)
-- GitHub: [@c4m1r](https://github.com/c4m1r)
-- Repository: [ascii_maker](https://github.com/c4m1r/ascii_maker)
-
----
-
-**ASCII Maker by C4m1r © 2025**
-
-⭐ If you like this project, give it a star on GitHub!
+- [Initial development and implementation](https://c4m1r.github.io), [Project page](https://github.com/c4m1r/ascii-maker)

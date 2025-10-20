@@ -9,7 +9,7 @@
 
 **灵感来自**: [Ghostty terminal](https://ghostty.org) 和 [Pierce的动画方法](https://pierce.dev/notes/making-the-ghostty-animation/)
 
-**在线演示**: [https://c4m1r.github.io/ascii_maker/](https://c4m1r.github.io/ascii_maker/)
+**在线演示**: [https://c4m1r.github.io/ASCII-Maker/](https://c4m1r.github.io/ASCII-Maker/)
 
 ## ✨ 功能
 
@@ -137,7 +137,7 @@ git commit -m "Update ASCII Maker"
 git push
 ```
 
-网站将在以下地址上线: `https://c4m1r.github.io/ascii_maker/`
+网站将在以下地址上线: `https://c4m1r.github.io/ASCII-Maker/`
 
 ## 🤝 贡献
 
@@ -157,11 +157,4 @@ MIT许可证 - 详见 [LICENSE](LICENSE)
 **C4m1r**
 - Website: [https://c4m1r.github.io](https://c4m1r.github.io)
 - GitHub: [@c4m1r](https://github.com/c4m1r)
-- Repository: [ascii_maker](https://github.com/c4m1r/ascii_maker)
-
----
-
-**ASCII Maker by C4m1r © 2025**
-
-⭐ 如果你喜欢这个项目，请在GitHub上给它一个星标！
-
+- [初步开发和实现](https://c4m1r.github.io)、[项目页面](https://github.com/c4m1r/ascii-maker)

@@ -9,7 +9,7 @@
 
 **Вдохновлено**: [Ghostty terminal](https://ghostty.org) и [подходом Pierce к анимации](https://pierce.dev/notes/making-the-ghostty-animation/)
 
-**Живое Демо**: [https://c4m1r.github.io/ascii_maker/](https://c4m1r.github.io/ascii_maker/)
+**Живое Демо**: [https://c4m1r.github.io/ASCII-Maker/](https://c4m1r.github.io/ASCII-Maker/)
 
 ## ✨ Возможности
 
@@ -137,7 +137,7 @@ git commit -m "Update ASCII Maker"
 git push
 ```
 
-Сайт будет доступен по адресу: `https://c4m1r.github.io/ascii_maker/`
+Сайт будет доступен по адресу: `https://c4m1r.github.io/ASCII-Maker/`
 
 ## 🤝 Вклад
 
@@ -151,17 +151,4 @@ MIT License - см. [LICENSE](LICENSE) для деталей
 
 - [Ghostty terminal](https://ghostty.org) - Вдохновение для подхода к анимации
 - [Pierce Bartine](https://pierce.dev/notes/making-the-ghostty-animation/) - Техническое объяснение
-
-## 👤 Автор
-
-**C4m1r**
-- Website: [https://c4m1r.github.io](https://c4m1r.github.io)
-- GitHub: [@c4m1r](https://github.com/c4m1r)
-- Repository: [ascii_maker](https://github.com/c4m1r/ascii_maker)
-
----
-
-**ASCII Maker by C4m1r © 2025**
-
-⭐ Если вам нравится этот проект, поставьте звезду на GitHub!
-
+- [Изначальная разработка и реализация](https://c4m1r.github.io), [Страница проекта](https://github.com/c4m1r/ascii-maker)
