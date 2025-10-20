@@ -59,7 +59,7 @@ function ASCIIPlayer({
           for (let j = i; j < Math.min(i + batchSize, frameCount); j++) {
             const filename = `frame_${String(j + 1).padStart(4, '0')}.txt`;
             batchPromises.push(
-              fetch(`/frames/${framesPath}/${filename}`, { signal: controller.signal })
+              fetch(`${import.meta.env.BASE_URL}frames/${framesPath}/${filename}`, { signal: controller.signal })
                 .then(res => res.ok ? res.text() : '')
                 .catch(() => '')
             );
